@@ -28,7 +28,7 @@ header nav ul li a {
 }
 
 .hero {
-    background: url('hero-image.jpg') no-repeat center center/cover;
+    background: url('img/background.jpg') no-repeat center center/cover;
     color: white;
     height: 300px;
     display: flex;
@@ -50,6 +50,9 @@ header nav ul li a {
 
 .services h2 {
     margin-bottom: 1rem;
+}
+.services h3{
+    font-size: 30px;
 }
 
 .services p {
