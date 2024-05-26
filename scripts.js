@@ -1,13 +1,2 @@
-// Tambahkan JavaScript jika diperlukan
-document.addEventListener('DOMContentLoaded', () => {
-    // Example: Smooth scrolling for anchor links
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener('click', function (e) {
-            e.preventDefault();
-
-            document.querySelector(this.getAttribute('href')).scrollIntoView({
-                behavior: 'smooth'
-            });
-        });
-    });
-});
+// Currently, there's no specific JavaScript functionality needed for this page.
+// This file is included for future enhancements if needed.
